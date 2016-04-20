@@ -1,3 +1,7 @@
+/**
+ * @author peraltalberto
+ */
+
 package es.dimeque.fx.listselection;
 
 import java.util.ArrayList;
