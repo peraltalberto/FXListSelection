@@ -64,8 +64,6 @@ public class FXListSelection<T>  extends VBox implements Initializable{
         } catch (IOException ex) {
             Logger.getLogger(FXListSelection.class.getName()).log(Level.SEVERE, null, ex);
         }
-        
-        
     }
 
    

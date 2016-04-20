@@ -5,15 +5,17 @@ Intenacionalizado,
 
 Selecciona cualquier tipo de dato
 
+![Image preview](SNAPTSHOT.PNG)
+
 Ejemplo
 
 ```java
         
         List<String> list = new ArrayList<String>();
-        list.add("d");
-        list.add("b");
-        list.add("a");
-        list.add("c");
+        list.add("help");
+        list.add("ayuda");
+        list.add("aider");
+        list.add("hilfe");
         ObservableList<String> observableList = FXCollections.observableList(list);
         
        FXListSelection<String> listSelection = new FXListSelection<>();
